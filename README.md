@@ -109,6 +109,7 @@ Url | Autor | Nível | Indioma
 * [Front in Fortaleza](http://www.frontinfortaleza.com.br/) - *Ionic Rocks!* por @vitormalencar
 * [Lithium](http://lithium.net.br/cursos/ionic.html) - *Curso de Ionic Online em português* por @raphaelpor
 * [I encontro do GDG Feira de Santana](http://www.meetup.com/GDG-Feira-de-Santana/events/223926406/) - *Ionic: The Web SDK for Develop Mobile Apps* por [@MatheusCAS](https://twitter.com/MatheusCAS?lang=en)
+* [Curso Iniciando com Ionic 2](https://www.udemy.com/iniciando-com-ionic-2/) `Julho/2016` - *por [@plinionaves](https://twitter.com/plinionaves)*
 
 ## Ferramentas
 
